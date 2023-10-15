@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --text-button: Poppins;
+  --icon-list: "Font Awesome 5 Free";
+  --font-font-awesome-5-brands: "Font Awesome 5 Brands";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --text-button-size: 15px;
+  --text-paragraph-size: 17px;
+  --icon-list-size: 20px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-base: 16px;
+  --font-size-17xl: 36px;
+  --font-size-69xl: 88px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --primary: #757575;
+  --color-gray-100: #1d1d1b;
+  --border-color-overlay: rgba(255, 255, 255, 0.25);
+  --color-goldenrod: #fec330;
+  --color-khaki: #f0ca6b;
+}

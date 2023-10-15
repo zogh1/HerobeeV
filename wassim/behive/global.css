@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto: Roboto;
+  --text-button: Poppins;
+  --icon-list: "Font Awesome 5 Free";
+  --font-font-awesome-5-brands: "Font Awesome 5 Brands";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --text-paragraph-size: 17px;
+  --text-button-size: 15px;
+  --icon-list-size: 20px;
+  --font-size-6xl: 25px;
+  --font-size-11xl: 30px;
+  --font-size-17xl: 36px;
+  --font-size-base: 16px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-firebrick: #c91e1e;
+  --primary: #757575;
+  --color-gray-100: #1d1d1b;
+  --border-color-overlay: rgba(255, 255, 255, 0.25);
+  --color-orange-100: #ff9a00;
+}
