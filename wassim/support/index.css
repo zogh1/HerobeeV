@@ -355,6 +355,13 @@
   height: 351px;
   color: var(--color-black);
 }
+.introducing-herobee {
+  top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+}
 .support-item {
   position: absolute;
   top: calc(50% - 138px);
