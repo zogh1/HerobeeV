@@ -28,7 +28,7 @@
   position: absolute;
   top: 0px;
   left: 0;
-  width: 1500px;
+  width: 100%;
   height: 826px;
   object-fit: cover;
 }
@@ -43,7 +43,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 1442px;
+  width: 100%;
   height: 271px;
 }
 .mask-group-icon,
@@ -52,14 +52,14 @@
 }
 .mask-group-icon {
   top: 1423px;
-  width: 1440px;
+  width: 100%;
   height: 801px;
   object-fit: cover;
 }
 .instance-child {
   position: relative;
   background-color: var(--color-goldenrod);
-  width: 1440px;
+  width: 100%;
   height: 89px;
   z-index: 0;
 }
@@ -118,7 +118,7 @@
   top: 0;
   left: 0;
   background-color: rgba(254, 181, 1, 0.74);
-  width: 1440px;
+  width: 100%;
   height: 351px;
 }
 .div,
@@ -351,7 +351,7 @@
   position: absolute;
   top: 1873px;
   left: 0;
-  width: 1440px;
+  width: 100%;
   height: 351px;
   color: var(--color-black);
 }
@@ -365,11 +365,10 @@
 .lorem-ipsum-dolor-container {
   position: absolute;
   top: 1159px;
-  left: 132px;
   display: inline-block;
   color: var(--color-black);
   text-align: center;
-  width: 1181px;
+  width: 100%;
   height: 211px;
 }
 .div10,

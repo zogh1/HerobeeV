@@ -103,10 +103,10 @@
 }
 .group-child {
   position: absolute;
-  top: 30px;
+  top: 150px;
   left: 0;
   background-color: #feb501;
-  width: 1440px;
+  width: 100%;
   height: 351px;
 }
 .div,
@@ -320,7 +320,7 @@
   position: absolute;
   top: 2153px;
   left: 0;
-  width: 1440px;
+  width: 100%;
   height: 351px;
   font-size: var(--text-paragraph-size);
   font-family: var(--text-button);
@@ -368,7 +368,7 @@
 .group-icon {
   top: 965px;
   left: 121px;
-  width: 1264.62px;
+  width: 1400PX;
   height: 1219px;
   object-fit: cover;
 }
@@ -511,6 +511,31 @@
   font-family: var(--font-roboto);
 }
 
+
+@media (max-width: 1500px) {
+  .b {
+      top: 740px;
+  }
+
+  .vector-icon {
+    top: 747px;
+    left: 1000px;
+}
+
+
+.dt {
+  top: 730px;
+}
+
+.price{
+
+  top:680px
+}
+.quantity{
+  left: 500px;
+}
+ 
+}
 
 
 
